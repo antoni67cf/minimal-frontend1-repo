@@ -8,6 +8,7 @@
   },
   "private": true,
   "dependencies": {
-    "numbro": "1.11.0"
+    "boolbase": "1.0.0",
+    "natural-compare": "1.4.0"
   }
 }
